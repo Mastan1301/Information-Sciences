@@ -1,5 +1,7 @@
 #Exercise 1.4
 #Use Python3 to run the program
+#   Generating discrete random numbers using Inverse transform sampling method and plotting the CDF, Inverse CDF 
+#   for the given PMF. The used PMF is arbitrary and can be changed to any type of PMF.
 
 import numpy as np
 import math
