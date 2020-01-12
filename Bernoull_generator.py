@@ -1,5 +1,6 @@
 #Exercise 1.4
 #Use Python3 to run the program
+#Generating Bernoulli random numbers using Inverse Transform Sampling method.
 
 import numpy as np
 import math
